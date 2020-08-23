@@ -5,7 +5,7 @@ title: Home
 
 # Tools: ma-laforge
 
-w/gemfile v2
+w/gemfile v3
 
 General/scientific
  - [Plotting: InspectDR.jl](info/inspectdr)

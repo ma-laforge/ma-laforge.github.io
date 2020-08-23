@@ -3,7 +3,6 @@ title: ma-laforge
 # social links
 github_username:  ma-laforge
 
-#url: "https://ma-laforge.github.io" #For jekyll-sitemap
 plugins:
   - jekyll-sitemap
 
