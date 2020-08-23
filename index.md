@@ -3,26 +3,28 @@ layout: default
 title: Home
 ---
 
+<aside id=sidebar>
+<p>Can I add stuff in sidebar??</p>
+</aside>
+
 <nav>
   <ul></ul>
 </nav>
 
 # Tools: ma-laforge
 
-w/gemfile v3
-
-General/scientific
+## General/scientific
  - [Plotting: InspectDR.jl](info/inspectdr)
  - Parametric Analysis/Visualization: CDimData.jl
 
-Circuit-focused
+## Circuit-focused
  - Parametric Analysis/Visualization: CDimCircuits.jl
  - Readers/writers for EDA tools
  - Electrical Diagrams
  - Design Assistants
  - Theory & Cheetsheets
 
-Other
+## Other
  - Arduino (Consumer IR remote communication)
  - Make tools
  - Dump music from {.m3u playlists} &rArr; {USB folder} (for in-dash car stereos)
