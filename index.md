@@ -6,7 +6,7 @@ title: Home
 # Tools: ma-laforge
 
 General/scientific
- - [Plotting: InspectDR.jl](inspectdr.html)
+ - [Plotting: InspectDR.jl](info/inspectdr)
  - Parametric Analysis/Visualization: CDimData.jl
 
 Circuit-focused
