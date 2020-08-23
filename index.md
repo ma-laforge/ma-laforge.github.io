@@ -3,6 +3,10 @@ layout: default
 title: Home
 ---
 
+<nav>
+  <ul></ul>
+</nav>
+
 # Tools: ma-laforge
 
 w/gemfile v3
@@ -21,7 +25,7 @@ Circuit-focused
 Other
  - Arduino (Consumer IR remote communication)
  - Make tools
- - Dump music in .m3u playlists &rArr; USB folder (for in-dash car stereos)
+ - Dump music from {.m3u playlists} &rArr; {USB folder} (for in-dash car stereos)
 
 # Quote
 
