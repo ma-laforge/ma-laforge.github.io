@@ -5,6 +5,8 @@ title: Home
 
 # Tools: ma-laforge
 
+w/gemfile
+
 General/scientific
  - [Plotting: InspectDR.jl](info/inspectdr)
  - Parametric Analysis/Visualization: CDimData.jl
