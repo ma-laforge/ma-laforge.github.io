@@ -4,7 +4,7 @@ title: ma-laforge
 github_username:  ma-laforge
 
 #url: "https://ma-laforge.github.io" #For jekyll-sitemap
-#plugins:
-#  - jekyll-sitemap
+plugins:
+  - jekyll-sitemap
 
 theme: jekyll-theme-architect
