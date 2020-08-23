@@ -1,8 +1,4 @@
 title: MA Laforge Web
-description: > # this means to ignore newlines until "baseurl:"
-  Tools enabling model/simulation/measurement data analysis
-  #AnalogDesign #SParameters #ParametricAnalysis #FastPlotting
-  #ODFschematics
   
 # social links
 github_username:  ma-laforge
