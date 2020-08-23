@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "InspectDR.jl: Julia/Gtk plots"
 permalink: /info/inspectdr
 ---
