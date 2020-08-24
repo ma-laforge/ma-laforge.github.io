@@ -10,6 +10,8 @@ __quote: >
   ***&mdash; MA***
 ---
 
+GFM
+
 | <img src={{ page.__logo }} width="64"> | {{ page.__quote }} |
 | :---: | :--- |
 

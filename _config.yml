@@ -3,7 +3,8 @@ title: ma-laforge
 # social links
 github_username:  ma-laforge
 
+#markdown: kramdown
+markdown: GFM
 plugins:
   - jekyll-sitemap
-
 theme: jekyll-theme-architect
