@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Home
-__elnk: &#21AA; #External-link
 __logo: "\"https://avatars0.githubusercontent.com/u/11205411\""
 __quote: >
   Mathematics enables transcendence from our black & white mindset by
@@ -16,28 +15,28 @@ __quote: >
 # Tools: ma-laforge
 
 ## General/scientific
- - [InspectDR.jl: Plotting {{ __elnk }}](https://github.com/ma-laforge/InspectDR.jl)
- - [GracePlot.jl: Plotting {{ __elnk }}](https://github.com/ma-laforge/GracePlot.jl)
- - [Parametric Analysis/Visualization: CDimData.jl {{ __elnk }}](https://github.com/ma-laforge/CMDimData.jl)
+ - [InspectDR.jl: Plotting &#21AA;](https://github.com/ma-laforge/InspectDR.jl)
+ - [GracePlot.jl: Plotting &#21AA;](https://github.com/ma-laforge/GracePlot.jl)
+ - [Parametric Analysis/Visualization: CDimData.jl &#21AA;](https://github.com/ma-laforge/CMDimData.jl)
 
 ## Circuit-focused
- - [Parametric Analysis/Visualization: CDimCircuits.jl {{ __elnk }}](https://github.com/ma-laforge/CMDimCircuits.jl)
+ - [Parametric Analysis/Visualization: CDimCircuits.jl &#21AA;](https://github.com/ma-laforge/CMDimCircuits.jl)
  - [Readers/writers for EDA tools](info/edatools)
- - [Electrical Diagrams {{ __elnk }}](https://github.com/ma-laforge/ElectricalDiagrams)
+ - [Electrical Diagrams &#21AA;](https://github.com/ma-laforge/ElectricalDiagrams)
  - Design Assistants
- - [Theory & Cheetsheets {{ __elnk }}](https://github.com/ma-laforge/DocsLaTeX_Electrical)
+ - [Theory & Cheetsheets &#21AA;](https://github.com/ma-laforge/DocsLaTeX_Electrical)
 
 ## Coding
- - [maketools {{ __elnk }}](https://github.com/ma-laforge/maketools)
+ - [maketools &#21AA;](https://github.com/ma-laforge/maketools)
 
 ## Arduino projects
- - [ArduinoCIR: Consumer IR remote communication {{ __elnk }}](https://github.com/ma-laforge/ArduinoCIR)
+ - [ArduinoCIR: Consumer IR remote communication &#21AA;](https://github.com/ma-laforge/ArduinoCIR)
 
 ## Other
- - [Dump music from {.m3u playlists} &rArr; {USB folder} (for in-dash car stereos) {{ __elnk }}](https://github.com/ma-laforge/AudioStick)
+ - [Dump music from {.m3u playlists} &rArr; {USB folder} (for in-dash car stereos) &#21AA;](https://github.com/ma-laforge/AudioStick)
 
 ## Deprecated
- - [WinSPP: Plotting on Smith charts {{ __elnk }}](https://github.com/ma-laforge/WinSPP)
+ - [WinSPP: Plotting on Smith charts &#21AA;](https://github.com/ma-laforge/WinSPP)
 
 # Tools: others
 
