@@ -10,9 +10,9 @@ __quote: >
   ***&mdash; MA***
 ---
 
-GFM
+Change table
 
-| <img src={{ page.__logo }} width="64"> | {{ page.__quote }} |
+| <img src="https://avatars0.githubusercontent.com/u/11205411" width="64"> | > Some quote |
 | :---: | :--- |
 
 
