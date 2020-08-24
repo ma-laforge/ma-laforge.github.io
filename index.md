@@ -3,8 +3,8 @@ layout: default
 title: Home
 __logo: "\"https://avatars0.githubusercontent.com/u/11205411\""
 __quote: >
-  Mathematics enables a transcendence from our black & white mindset by
-  grappling with the infinite levels of gray. With practice, we can harness
+  Mathematics enables transcendence from our black & white mindset by
+  managing the infinite levels of gray. With practice, we can harness
   its teachings to navigate the vast ocean of possibilities.<br><br>
   ***&mdash; MA***
 ---
