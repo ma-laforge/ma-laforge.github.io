@@ -9,13 +9,14 @@ __quote: >
   ***&mdash; MA***
 ---
 
+With links
 <img src={{ page.__logo }} width="128"> <blockquote> {{ page.__quote }} </blockquote>
 
 
 # Tools: ma-laforge
 
 ## General/scientific
- - [InspectDR.jl: Plotting](https://github.com/ma-laforge/InspectDR.jl)
+ - <a class="external text" rel="nofollow" href="https://github.com/ma-laforge/InspectDR.jl">InspectDR.jl: Plotting</a>
  - [GracePlot.jl: Plotting](https://github.com/ma-laforge/GracePlot.jl)
  - [Parametric Analysis/Visualization: CDimData.jl](https://github.com/ma-laforge/CMDimData.jl)
 
