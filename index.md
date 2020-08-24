@@ -10,7 +10,7 @@ __quote: >
   ***&mdash; MA***
 ---
 
-| <img src={{page.__logo}} width="64"> | {{page.__quote}} |
+| <img src={{ page.__logo }} width="64"> | {{ page.__quote }} |
 | :---: | :--- |
 
 
