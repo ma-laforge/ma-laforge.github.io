@@ -9,8 +9,7 @@ __quote: >
   ***&mdash; MA***
 ---
 
-| <img src={{ page.__logo }} width="128"> | <blockquote> {{ page.__quote }} </blockquote> |
-| :---: | :--- |
+<img src={{ page.__logo }} width="128"> <blockquote> {{ page.__quote }} </blockquote>
 
 
 # Tools: ma-laforge

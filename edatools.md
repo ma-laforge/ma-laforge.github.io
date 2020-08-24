@@ -13,5 +13,5 @@ permalink: /info/edatools
  - [PSFWrite: PSF writer](https://github.com/ma-laforge/PSFWrite.jl)
  - [Touchstone (.snp) reader/writer (part of CMDimCircuits.jl)](https://github.com/ma-laforge/CMDimCircuits.jl/blob/master/doc/EDAData.md)
 
-Note that all readers/writers are available from [CMDimCircuits.jl](https://github.com/ma-laforge/CMDimCircuits.jl/blob/master/doc/EDAData.md)
+Note that all readers/writers are available through [CMDimCircuits.jl](https://github.com/ma-laforge/CMDimCircuits.jl/blob/master/doc/EDAData.md)
 
