@@ -10,9 +10,9 @@ __quote: >
   ***&mdash; MA***
 ---
 
-Change table
+HTMLBQ
 
-| <img src="https://avatars0.githubusercontent.com/u/11205411" width="64"> | > Some quote |
+| <img src="https://avatars0.githubusercontent.com/u/11205411" width="128"> | <blockquote> Some quote </blockquote> |
 | :---: | :--- |
 
 
