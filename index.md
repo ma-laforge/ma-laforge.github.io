@@ -5,12 +5,11 @@ __logo: "\"https://avatars0.githubusercontent.com/u/11205411\""
 __quote: >
   Mathematics enables a transcendence from our black & white mindset by
   grappling with the infinite levels of gray. With practice, we can harness
-  its teachings to navigate the vast ocean of possibilities.
-  
+  its teachings to navigate the vast ocean of possibilities.<br><br>
   ***&mdash; MA***
 ---
 
-| <img src={{ page.__logo }} width="128"> | <blockquote> {{ page.__quote }} </blockquote> |
+| <img src={{ page.__logo }} width="128"> | <blockquote>  </blockquote> |
 | :---: | :--- |
 
 
