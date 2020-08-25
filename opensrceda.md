@@ -12,11 +12,11 @@ Some text :thumbsup: endos.
 
 Some text :+1: endos.
 
-Some text &#1F44D; endos.
+Some text &#x1F44D; endos.
 
-Some text &#1F914; endos.
+Some text &#x1F914; endos.
 
-Some text star1: &#2B50;, &#1F31F;, &#2728; endos.
+Some text star1: &#x2B50;, &#x1F31F;, &#x2728; endos.
 
 
 ## Basic info
