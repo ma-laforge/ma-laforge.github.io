@@ -40,6 +40,9 @@ __quote: >
 
 # Tools: others
 
+# External resources
+ - [Links:](extresouces/modelling)
+
 # Howto
  - List howto documents here
 
