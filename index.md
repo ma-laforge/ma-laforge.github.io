@@ -41,7 +41,8 @@ __quote: >
 # Tools: others
 
 # External resources
- - [Links:](extresouces/modelling)
+ - [Math/modelling/simulation/plotting resources](extresouces/modelling)
+ - [Open source EDA](extresouces/opensrceda)
 
 # Howto
  - List howto documents here

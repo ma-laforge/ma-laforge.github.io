@@ -11,7 +11,7 @@ This page provides a list to promissing extrnal resources that address various p
 ## Basic info
  - :thumbsup:: Recommended by MA
  - :think:: Looks promising to MA
- - [Mathematical Software &#x21AA;](https://en.wikipedia.org/wiki/Mathematical_software): Explains different types.
+ - [Mathematical Software (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/Mathematical_software): Explains different types.
 
 ## Modelling languages
  - [Modelica (modelling language) &#x21AA;](www.modelica.org): :think: Has multiple implementations.
@@ -62,10 +62,6 @@ This page provides a list to promissing extrnal resources that address various p
  - [SciDAVis (Qt) &#x21AA;](http://scidavis.sourceforge.net/): Fork of QtiPlot.
  - [LabPlot (KDE) &#x21AA;](https://labplot.kde.org/)
  - [MagicPlot &#x21AA;](https://magicplot.com/)
-
-## Waveform viewers (Plots for circuit simulation results)
- - [GTKWave (Digital waveforms) &#x21AA;](http://gtkwave.sourceforge.net/)
-   -LXT, LXT2, VZT, FST, and GHW files as well as standard Verilog VCD/EVCD.
 
 ## IDEs/front ends
  - [Cantor (KDE) &#x21AA;](http://www.kde.org/applications/education/cantor/): Matlab-like IDE.
