@@ -1,6 +1,9 @@
 ---
 layout: default
 title: "Modelling Tools"
+#__altstars: "&#x2B50;&#x1F31F;&#x2728;" #Alternarnative unicode "stars"
+#__altthumbsup: "&#x1F44D;" #Alternarnative unicode "thumbs up"
+#__altthinking: "&#x1F914;&#x1F9D0;" #Alternarnative unicode "thinking"
 permalink: /extresouces/modelling
 ---
 
@@ -9,12 +12,12 @@ permalink: /extresouces/modelling
 This page provides a list to promissing extrnal resources that address various problems in math, modelling, simulation, and plotting.
 
 ## Basic info
- - :thumbsup:: Recommended by MA
- - :think:: Looks promising to MA
+ - &#x2728;: Recommended by MA
+ - &#x1F914;: Looks promising to MA
  - [Mathematical Software (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/Mathematical_software): Explains different types.
 
 ## Modelling languages
- - [Modelica (modelling language) &#x21AA;](www.modelica.org): :think: Has multiple implementations.
+ - [Modelica (modelling language) &#x21AA;](www.modelica.org): &#x1F914; Has multiple implementations.
    - Implementations (see below): OpenModelica, AMESim, CATIA Systems, Dymola, JModelica.org, MapleSim, Wolfram SystemModeler, Scicos, SimulationX, Vertex, Xcos.
  - Verilog A/AMS (Implemented in circuit simulators)
 
@@ -39,12 +42,12 @@ This page provides a list to promissing extrnal resources that address various p
 ## Numerical-analysis software
  - [List (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/Dynamic_simulation)
  - [Comparison of numerical-analysis software (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/Comparison_of_numerical-analysis_software)
- - [Julia (Programming Language) &#x21AA;](https://julialang.org/): :thumbsup::thumbsup: Designed with numerical-analysis in mind.
+ - [Julia (Programming Language) &#x21AA;](https://julialang.org/): &#x2728;&#x2728; Designed with numerical-analysis in mind.
  - [Scilab &#x21AA;](www.scilab.org): Similar to Matlab.
 
 ## Dynamic simulation systems (modelling/numerical solvers)
  - [Info (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/List_of_numerical-analysis_software)
- - [Modia (Julia) &#x21AA;](https://github.com/ModiaSim/Modia.jl): :think::think: Implementation trying to *improve/extend* Modelica language.
+ - [Modia (Julia) &#x21AA;](https://github.com/ModiaSim/Modia.jl): &#x1F914;&#x1F914; Implementation trying to *improve/extend* Modelica language.
  - [Open Modelica &#x21AA;](https://openmodelica.org/): Open Source Modelica Consortium (OSMC).
  - [Xcos (Scilab) &#x21AA;](https://www.scilab.org/software/xcos): Based on Modelica language.
  - [Simulink (Mathworks) &#x21AA;](https://www.mathworks.com/products/simulink.html)
