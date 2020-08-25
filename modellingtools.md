@@ -37,7 +37,9 @@ This page provides a list to promissing extrnal resources that address various p
  - [Enthought Tool Suite, ETS (Python) &#x21AA;](https://docs.enthought.com/ets/): Components to construct scientific applications.
    - Mayavi (3D viz), Chaco (Interactive 2D plots), SciMath (Scientific utilities including units), ...
  - [SciPy (Python) &#x21AA;](www.scipy.org): Similar to Matlab.
+ - [Qwt (C++/Qt) &#x21AA;](https://qwt.sourceforge.io/): Qt Widgets for Technical Applications.
  - [ROOT (CERN) &#x21AA;](https://root.cern/): Data analysis framework (Conseil Européen pour la Recherche Nucléaire).
+
 
 ## Numerical-analysis software
  - [List (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/Dynamic_simulation)
