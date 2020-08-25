@@ -11,8 +11,8 @@ permalink: /extresouces/opensrceda
  - &#x1F914;: Looks promising to MA
  - [EDA Open Source and Free Tools (SemiWiki) &#x21AA;](https://semiwiki.com/wikis/industry-wikis/eda-open-source-tools-wiki/)
  - [Comparison of EDA software (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/Comparison_of_EDA_software#Free_software)
- - [gplEDA.org &#x21AA;](www.gpleda.org)
- - [gEDA Project &#x21AA;](www.geda-project.org)
+ - [gplEDA.org &#x21AA;](http://www.gpleda.org/)
+ - [gEDA Project &#x21AA;](http://www.geda-project.org/)
 
 ## Circuit design environments
  - [Qucs (Qt) &#x21AA;](http://qucs.sourceforge.net/): &#x1F914; Quite Universal Circuit Simulator.
@@ -26,7 +26,7 @@ permalink: /extresouces/opensrceda
  - winspice
  - ngspice
  - [LTspice (AnalogDevices) &#x21AA;](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html): (Orig: Linear Technology).
- - [CppSim &#x21AA;](www.cppsim.com): System-level simulations for mixed-signal systems.
+ - [CppSim &#x21AA;](https://www.cppsim.com/): System-level simulations for mixed-signal systems.
 
 ## Waveform viewers
  - [GTKWave (Digital waveforms) &#x21AA;](http://gtkwave.sourceforge.net/)
