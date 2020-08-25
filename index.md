@@ -38,12 +38,10 @@ __quote: >
 ## Deprecated
  - [WinSPP: Plotting on Smith charts &#x21AA;](https://github.com/ma-laforge/WinSPP)
 
-# Tools: others
+# Howto
+ - List howto documents here
 
 # External resources
  - [Math/modelling/simulation/plotting resources](extresouces/modelling)
  - [Open source EDA](extresouces/opensrceda)
-
-# Howto
- - List howto documents here
 
