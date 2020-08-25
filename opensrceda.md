@@ -19,6 +19,7 @@ permalink: /extresouces/opensrceda
  - [KiCad EDA &#x21AA;](https://kicad-pcb.org/): &#x1F914; A Cross Platform and Open Source Electronics Design Automation Suite.
 
 ## Circuit simulators
+ - [List of free electronics circuit simulators (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/List_of_free_electronics_circuit_simulators)
  - PSPICE16.2
  - Orcad
  - NI Multisim Student 11
