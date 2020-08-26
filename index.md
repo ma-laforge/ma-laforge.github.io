@@ -13,8 +13,8 @@ __quote: >
 [NumericIO]: https://github.com/ma-laforge/NumericIO.jl
 [InspectDR]: https://github.com/ma-laforge/InspectDR.jl
 [GracePlot]: https://github.com/ma-laforge/GracePlot.jl
-[CDimData]: https://github.com/ma-laforge/CDimData.jl
-[CDimCircuits]: https://github.com/ma-laforge/CDimCircuits.jl
+[CMDimData]: https://github.com/ma-laforge/CMDimData.jl
+[CMDimCircuits]: https://github.com/ma-laforge/CMDimCircuits.jl
 [EDAData]: https://github.com/ma-laforge/CMDimCircuits.jl/blob/master/doc/EDAData.md
 [SpiceData]: https://github.com/ma-laforge/SpiceData.jl
 [LibPSF]: https://github.com/ma-laforge/LibPSF.jl
@@ -38,10 +38,10 @@ __quote: >
  - [NumericIO.jl &#x21AA;][NumericIO]: Fine control over numeric output (Scientific/Engineering/SI-notation +UTF8).
  - [InspectDR.jl (Plotting) &#x21AA;][InspectDR]: Fast, interactive Julia/GTK+ plots (+Smith charts).
  - [GracePlot.jl (Plotting) &#x21AA;][GracePlot]: Build Grace/xmgrace plots with Julia!
- - [CDimData.jl &#x21AA;][CDimData]: Parametric analysis/visualization +continuous-<var>f(x)</var> interpolation.
+ - [CMDimData.jl &#x21AA;][CMDimData]: Parametric analysis/visualization +continuous-<var>f(x)</var> interpolation.
 
 ## Circuit-focused
- - [CDimCircuits.jl &#x21AA;][CDimCircuits]: Parametric analysis/visualization of model/measurement/simulation results.
+ - [CMDimCircuits.jl &#x21AA;][CMDimCircuits]: Parametric analysis/visualization of model/measurement/simulation results.
  - [Readers/writers for EDA file formats](info/edatools)
  - [ElectricalDiagrams &#x21AA;][ElectricalDiagrams]: Captivating circuit schematics in LibreOffice/OpenOffice
  - Design Assistants
