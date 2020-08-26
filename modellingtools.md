@@ -45,7 +45,7 @@ This page provides a list to promissing extrnal resources that address various p
  - [SciPy (Python) &#x21AA;](https://www.scipy.org/): Similar to Matlab.
  - [Qwt (C++/Qt) &#x21AA;](https://qwt.sourceforge.io/): Qt Widgets for Technical Applications.
  - [ROOT (CERN) &#x21AA;](https://root.cern/): Data analysis framework
-   - Source: CERN (orig: Conseil Européen pour la Recherche Nucléaire, European Organization for Nuclear Research).
+   - Source: CERN (European Organization for Nuclear Research, orig: Conseil Européen pour la Recherche Nucléaire).
 
 ## Numerical-analysis software
  - [List (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/Dynamic_simulation)
