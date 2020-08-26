@@ -20,7 +20,7 @@ permalink: /extresouces/freeeda
 
 ## Circuit simulators
  - [List of free electronics circuit simulators (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/List_of_free_electronics_circuit_simulators)
- - [Dynamic simulation systems](extresouces/modelling#DynamicSim): Check out section in "modelling" page.
+ - [Dynamic simulation systems](/extresouces/modelling#DynamicSim): Check out section in "modelling" page.
  - PSPICE16.2
  - Orcad
  - NI Multisim Student 11
