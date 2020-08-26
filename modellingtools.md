@@ -6,6 +6,8 @@ title: "Modelling Tools"
 #__altthinking: "&#x1F914;&#x1F9D0;" #Alternarnative unicode "thinking"
 permalink: /extresouces/modelling
 ---
+<!-- Reference-style links to make tables & lists more readable -->
+
 
 # Math, Modelling, Simulation, Plotting
 
@@ -24,7 +26,10 @@ This page provides a list to promissing extrnal resources that address various p
 ## Computer Algebra Systems (CAS)
  - [List (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/Computer_algebra_system)
  - [Scilab &#x21AA;](https://www.scilab.org/): Similar to Matlab.
+ - [SymPy (Python) &#x21AA;](https://www.sympy.org/): Symbolic
+   - [SymPy.jl (Julia) &#x21AA;](https://github.com/JuliaPy/SymPy.jl): Symbolic. Wrapper for Python library.
  - [Maxima &#x21AA;](http://maxima.sourceforge.net/): Symbolic.
+   - [Maxima.jl (Julia) &#x21AA;](https://github.com/nsmith5/Maxima.jl): Symbolic. Wrapper using Maxima software.
    - See also: wxMaxima, xmaxima
  - [Axiom &#x21AA;](http://www.axiom-developer.org/): Symbolic.
    - See also: OpenAxiom, FriCAS
@@ -39,7 +44,8 @@ This page provides a list to promissing extrnal resources that address various p
  - [SageMath &#x21AA;](https://www.sagemath.org/): Builds on top of many existing open-source packages: NumPy, SciPy, matplotlib, Sympy, Maxima, GAP, FLINT, R and many more.
  - [SciPy (Python) &#x21AA;](https://www.scipy.org/): Similar to Matlab.
  - [Qwt (C++/Qt) &#x21AA;](https://qwt.sourceforge.io/): Qt Widgets for Technical Applications.
- - [ROOT (CERN) &#x21AA;](https://root.cern/): Data analysis framework (Conseil Européen pour la Recherche Nucléaire).
+ - [ROOT (CERN) &#x21AA;](https://root.cern/): Data analysis framework
+   - Source: CERN (orig: Conseil Européen pour la Recherche Nucléaire, European Organization for Nuclear Research).
 
 ## Numerical-analysis software
  - [List (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/Dynamic_simulation)
@@ -72,6 +78,14 @@ This page provides a list to promissing extrnal resources that address various p
  - [Cantor (KDE) &#x21AA;](http://www.kde.org/applications/education/cantor/): Matlab-like IDE.
    - Supports: Julia, KAlgebra, Lua, Maxima, Octave, Python 2 and 3, Qalculate, R, Sage, and Scilab.
    - Part of [KDE Education Project &#x21AA;](https://edu.kde.org/)
+
+## Instrument control
+ - [NIDAQ.jl (Julia) &#x21AA;](https://github.com/JaneliaSciComp/NIDAQ.jl): National Instruments Data Acquisition Interface
+   - Source: Howard Hughes Medical Institute
+ - [Instruments.jl (Julia) &#x21AA;](https://github.com/BBN-Q/Instruments.jl): (VISA) Instrument control in Julia
+   - Source: Raytheon BBN Technologies - Quantum Group
+ - [PyVISA (Python) &#x21AA;](https://pyvisa.readthedocs.io/en/latest/): Control your instruments with Python
+   - Source: Raytheon BBN Technologies - Quantum Group
 
 ## Numerical libraries
  - [List (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/List_of_numerical_libraries)

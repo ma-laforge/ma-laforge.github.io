@@ -26,6 +26,8 @@ permalink: /extresouces/opensrceda
  - winspice
  - ngspice
  - [LTspice (AnalogDevices) &#x21AA;](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html): (Orig: Linear Technology).
+ - [ACME.jl (Julia) &#x21AA;](https://github.com/HSU-ANT/ACME.jl): Analog Circuit Modeling and Emulation for Julia.
+   - Source: Department of Signal Processing, Helmut-Schmidt-University
  - [CppSim &#x21AA;](https://www.cppsim.com/): System-level simulations for mixed-signal systems.
 
 ## Waveform viewers
