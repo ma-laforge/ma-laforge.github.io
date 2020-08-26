@@ -24,7 +24,7 @@ This page provides a list to promissing extrnal resources that address various p
  - Verilog A/AMS (Implemented in circuit simulators)
 
 ## Computer Algebra Systems (CAS)
- - [List (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/Computer_algebra_system)
+ - [Computer algebra system (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/Computer_algebra_system)
  - [Scilab &#x21AA;](https://www.scilab.org/): Similar to Matlab.
  - [SymPy (Python) &#x21AA;](https://www.sympy.org/): Symbolic
    - [SymPy.jl (Julia) &#x21AA;](https://github.com/JuliaPy/SymPy.jl): Symbolic. Wrapper for Python library.
@@ -48,14 +48,14 @@ This page provides a list to promissing extrnal resources that address various p
    - Source: CERN (European Organization for Nuclear Research, orig: Conseil Européen pour la Recherche Nucléaire).
 
 ## Numerical-analysis software
- - [List (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/Dynamic_simulation)
+ - [List of numerical-analysis software (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/List_of_numerical-analysis_software)
  - [Comparison of numerical-analysis software (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/Comparison_of_numerical-analysis_software)
  - [Julia (Programming Language) &#x21AA;](https://julialang.org/): &#x2728;&#x2728; Designed with numerical-analysis in mind.
  - [Scilab &#x21AA;](https://www.scilab.org/): Similar to Matlab.
 
 <a name="DynamicSim"></a>
 ## Dynamic simulation systems (modelling/numerical solvers)
- - [Info (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/List_of_numerical-analysis_software)
+ - [Dynamic simulation (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/Dynamic_simulation)
  - [Modia (Julia) &#x21AA;](https://github.com/ModiaSim/Modia.jl): &#x1F914;&#x1F914; Implementation trying to *improve/extend* Modelica language.
  - [Open Modelica &#x21AA;](https://openmodelica.org/): Open Source Modelica Consortium (OSMC).
  - [Xcos (Scilab) &#x21AA;](https://www.scilab.org/software/xcos): Based on Modelica language.
@@ -88,7 +88,7 @@ This page provides a list to promissing extrnal resources that address various p
  - [PyVISA (Python) &#x21AA;](https://pyvisa.readthedocs.io/en/latest/): Control your instruments with Python
 
 ## Numerical libraries
- - [List (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/List_of_numerical_libraries)
+ - [List of numerical libraries (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/List_of_numerical_libraries)
  - [GNU Scientific Library (GSL) &#x21AA;](http://www.gnu.org/software/gsl/): Numeric Library for C/C++
 
 ## Information sites
