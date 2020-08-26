@@ -64,5 +64,5 @@ __quote: >
 
 # External resources
  - [Math/modelling/simulation/plotting resources](extresouces/modelling)
- - [Open source EDA](extresouces/opensrceda)
+ - [Free EDA](extresouces/freeeda)
 

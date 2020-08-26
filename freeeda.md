@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Open-source EDA"
-permalink: /extresouces/opensrceda
+title: "Free EDA"
+permalink: /extresouces/freeeda
 ---
 
-# Open-source EDA
+# Free EDA
 
 ## Basic info
  - &#x2728;: Recommended by MA
@@ -20,6 +20,7 @@ permalink: /extresouces/opensrceda
 
 ## Circuit simulators
  - [List of free electronics circuit simulators (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/List_of_free_electronics_circuit_simulators)
+ - [Dynamic simulation systems](extresouces/modelling#DynamicSim): Check out section "modelling" page.
  - PSPICE16.2
  - Orcad
  - NI Multisim Student 11
