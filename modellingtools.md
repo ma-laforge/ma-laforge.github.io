@@ -86,7 +86,6 @@ This page provides a list to promissing extrnal resources that address various p
  - [Instruments.jl (Julia) &#x21AA;](https://github.com/BBN-Q/Instruments.jl): (VISA) Instrument control in Julia
    - Source: Raytheon BBN Technologies - Quantum Group
  - [PyVISA (Python) &#x21AA;](https://pyvisa.readthedocs.io/en/latest/): Control your instruments with Python
-   - Source: Raytheon BBN Technologies - Quantum Group
 
 ## Numerical libraries
  - [List (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/List_of_numerical_libraries)
