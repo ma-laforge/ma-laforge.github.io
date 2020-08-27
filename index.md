@@ -33,7 +33,7 @@ __quote: >
 [ArduinoCIR]: <https://github.com/ma-laforge/ArduinoCIR>
 [WinSPP]: <https://github.com/ma-laforge/WinSPP>
 
-{% include strip_logo_quote.html logo=page.__logo quote=page.__quote %}
+{% include strip_logo_quote_simple.html logo=page.__logo quote=page.__quote %}
 
 
 # Tools: ma-laforge
