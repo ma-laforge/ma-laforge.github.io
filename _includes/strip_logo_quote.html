@@ -1,7 +1,7 @@
 <!-- Horizontal strip displaying {include.logo | include.quote} -->
 <!-- TODO: Try to figure out how to make this work in markdown -->
 
-<style>
+<head><style>
 .container { 
   height: 256px;
   position: relative;
@@ -16,7 +16,7 @@
   transform: translateY(-50%);
   //border: 3px solid red;
 }
-</style>
+</head>
 
 <div class=container>
 <img align="left" src="{{ include.logo }}" width="256">
@@ -26,3 +26,4 @@
 </div>
 
 <br> <!-- Move under image -->
+<p>With Head</p>
