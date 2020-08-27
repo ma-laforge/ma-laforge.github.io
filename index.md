@@ -9,6 +9,11 @@ __quote: >
   ***&mdash; MA***
 ---
 
+<head>
+<!-- 2nd head HACK: Add Favicon -->
+<link rel="icon" href="/favicon32.png" type="image/png">
+</head>
+
 <!-- Reference-style links to make tables & lists more readable -->
 [NumericIO]: https://github.com/ma-laforge/NumericIO.jl
 [InspectDR]: https://github.com/ma-laforge/InspectDR.jl
