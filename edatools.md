@@ -4,6 +4,8 @@ title: "EDA tools (readers/writers)"
 permalink: /info/edatools
 ---
 
+{% include favicon.html %}
+
 | <img src="https://raw.githubusercontent.com/ma-laforge/FileRepo/master/InspectDR/sampleplots/demo11.png" width="425"> |
 | :---: |
 

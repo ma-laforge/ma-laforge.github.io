@@ -6,6 +6,9 @@ title: "Modelling Tools"
 #__altthinking: "&#x1F914;&#x1F9D0;" #Alternarnative unicode "thinking"
 permalink: /extresouces/modelling
 ---
+
+{% include favicon.html %}
+
 <!-- Reference-style links to make tables & lists more readable -->
 
 

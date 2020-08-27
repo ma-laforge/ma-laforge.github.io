@@ -4,6 +4,8 @@ title: "Free EDA"
 permalink: /extresouces/freeeda
 ---
 
+{% include favicon.html %}
+
 # Free EDA
 
 ## Basic info

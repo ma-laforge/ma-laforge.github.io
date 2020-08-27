@@ -9,10 +9,7 @@ __quote: >
   ***&mdash; MA***
 ---
 
-<head>
-<!-- 2nd head HACK: Add Favicon -->
-<link rel="icon" href="/favicon32.png" type="image/png">
-</head>
+{% include favicon.html %}
 
 <!-- Reference-style links to make tables & lists more readable -->
 [NumericIO]: https://github.com/ma-laforge/NumericIO.jl
@@ -68,6 +65,7 @@ __quote: >
  - List howto documents here
 
 # External resources
+ - [Authoring Tools](extresouces/authoring)
  - [Math/modelling/simulation/plotting resources](extresouces/modelling)
  - [Free EDA](extresouces/freeeda)
 
