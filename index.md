@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-__logo: "\"https://avatars0.githubusercontent.com/u/11205411\""
+__logo: "https://raw.githubusercontent.com/ma-laforge/FileRepo/master/logo/laforge_smithanvil_256x256.png"
 __quote: >
   Mathematics enables transcendence from our black & white mindset by
   managing the infinite levels of gray. With practice, we can harness
@@ -33,8 +33,7 @@ __quote: >
 [ArduinoCIR]: <https://github.com/ma-laforge/ArduinoCIR>
 [WinSPP]: <https://github.com/ma-laforge/WinSPP>
 
-
-<img src={{ page.__logo }} width="128"> <blockquote> {{ page.__quote }} </blockquote>
+{% include strip_logo_quote.html logo=page.__logo quote=page.__quote %}
 
 
 # Tools: ma-laforge
