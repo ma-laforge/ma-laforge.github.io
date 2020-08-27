@@ -6,7 +6,7 @@ __quote: >
   Mathematics enables transcendence from our black & white mindset by
   managing the infinite levels of gray. With practice, we can harness
   its teachings to navigate the vast ocean of possibilities.<br><br>
-  ***&mdash; MA***
+  <b><i>&mdash; MA</i></b>
 ---
 
 {% include favicon.html %}
@@ -35,6 +35,11 @@ __quote: >
 
 {% include strip_logo_quote_simple.html logo=page.__logo quote=page.__quote %}
 
+
+# External resources
+ - [Authoring Tools](extresouces/authoring)
+ - [Math/modelling/simulation/plotting resources](extresouces/modelling)
+ - [Free EDA](extresouces/freeeda)
 
 # Tools: ma-laforge
 
@@ -68,9 +73,4 @@ __quote: >
 
 # Howto
  - List howto documents here
-
-# External resources
- - [Authoring Tools](extresouces/authoring)
- - [Math/modelling/simulation/plotting resources](extresouces/modelling)
- - [Free EDA](extresouces/freeeda)
 
