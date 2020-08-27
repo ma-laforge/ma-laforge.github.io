@@ -58,7 +58,8 @@ __quote: >
  - [maketools &#x21AA;][maketools]
 
 ## Arduino projects
- - [ArduinoCIR &#x21AA;][ArduinoCIR]: Communication with consumer IR "remote" signals (send/receive "TV remote" (+satbox +...) commands).
+ - [ArduinoCIR &#x21AA;][ArduinoCIR]: Communication with consumer IR "remote" signals.
+   - (Send/receive "TV remote" (+satbox +...) commands).
 
 ## Other
  - [AudioStick &#x21AA;][AudioStick]: Dump music from {.m3u playlists} &rArr; {USB folder} (for in-dash car stereos).
