@@ -24,7 +24,7 @@ permalink: /extresouces/authoring
    - [Asciidoctor](https://asciidoctor.org/): A textprocessor implementation for ASCIIDoc.
    - Support for `LaTeX` equations (+ other equation markup languages).
    - Ideal for generating `.html` (web pages), `.pdf`, and other document formats.
- - [`LaTeX`](https://www.latex-project.org): A document preparation system. Highly flexible. Used to generate many professional textbooks.
+ - [`LaTeX`](https://www.latex-project.org): A document preparation system. Highly flexible. Used to generate many professional textbooks & theses.
    - [`LaTeX` (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/LaTeX)
    - Based on the [`TeX` (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/TeX) typesetting system (Donald Knuth).
    - Excellent system to construct mathematical equations (though somewhat difficult to read).

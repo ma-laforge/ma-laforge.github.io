@@ -12,23 +12,26 @@ __quote: >
 {% include favicon.html %}
 
 <!-- Reference-style links to make tables & lists more readable -->
-[NumericIO]: https://github.com/ma-laforge/NumericIO.jl
-[InspectDR]: https://github.com/ma-laforge/InspectDR.jl
-[GracePlot]: https://github.com/ma-laforge/GracePlot.jl
-[CMDimData]: https://github.com/ma-laforge/CMDimData.jl
-[CMDimCircuits]: https://github.com/ma-laforge/CMDimCircuits.jl
-[EDAData]: https://github.com/ma-laforge/CMDimCircuits.jl/blob/master/doc/EDAData.md
-[SpiceData]: https://github.com/ma-laforge/SpiceData.jl
-[LibPSF]: https://github.com/ma-laforge/LibPSF.jl
-[PSFWrite]: https://github.com/ma-laforge/PSFWrite.jl
+[NumericIO]: <https://github.com/ma-laforge/NumericIO.jl>
+[InspectDR]: <https://github.com/ma-laforge/InspectDR.jl>
+[GracePlot]: <https://github.com/ma-laforge/GracePlot.jl>
+[MDDatasets]: <https://github.com/ma-laforge/MDDatasets.jl>
+[CMDimData]: <https://github.com/ma-laforge/CMDimData.jl>
 
-[ElectricalDiagrams]: https://github.com/ma-laforge/ElectricalDiagrams
-[Cheatsheets]: https://github.com/ma-laforge/DocsLaTeX_Electrical
+[CMDimCircuits]: <https://github.com/ma-laforge/CMDimCircuits.jl>
+[PhysicalCommunications]: <https://github.com/ma-laforge/PhysicalCommunications.jl>
+[EDAData]: <https://github.com/ma-laforge/CMDimCircuits.jl/blob/master/doc/EDAData.md>
+[SpiceData]: <https://github.com/ma-laforge/SpiceData.jl>
+[LibPSF]: <https://github.com/ma-laforge/LibPSF.jl>
+[PSFWrite]: <https://github.com/ma-laforge/PSFWrite.jl>
 
-[maketools]: https://github.com/ma-laforge/maketools
-[AudioStick]: https://github.com/ma-laforge/AudioStick
-[ArduinoCIR]: https://github.com/ma-laforge/ArduinoCIR
-[WinSPP]: https://github.com/ma-laforge/WinSPP
+[ElectricalDiagrams]: <https://github.com/ma-laforge/ElectricalDiagrams>
+[Cheatsheets]: <https://github.com/ma-laforge/DocsLaTeX_Electrical>
+
+[maketools]: <https://github.com/ma-laforge/maketools>
+[AudioStick]: <https://github.com/ma-laforge/AudioStick>
+[ArduinoCIR]: <https://github.com/ma-laforge/ArduinoCIR>
+[WinSPP]: <https://github.com/ma-laforge/WinSPP>
 
 
 <img src={{ page.__logo }} width="128"> <blockquote> {{ page.__quote }} </blockquote>
@@ -38,14 +41,16 @@ __quote: >
 
 ## General/scientific
  - [NumericIO.jl &#x21AA;][NumericIO]: Fine control over numeric output (Scientific/Engineering/SI-notation +UTF8).
- - [InspectDR.jl (Plotting) &#x21AA;][InspectDR]: Fast, interactive Julia/GTK+ plots (+Smith charts).
+ - [InspectDR.jl (Plotting) &#x21AA;][InspectDR]: &#x2728; Fast, interactive Julia/GTK+ plots (+Smith charts).
  - [GracePlot.jl (Plotting) &#x21AA;][GracePlot]: Build Grace/xmgrace plots with Julia!
- - [CMDimData.jl &#x21AA;][CMDimData]: Parametric analysis/visualization +continuous-<var>f(x)</var> interpolation.
+ - [MDDatasets.jl &#x21AA;][MDDatasets]: (Base pkg) Multi-dimensional datasets for parametric analysis.
+ - [CMDimData.jl &#x21AA;][CMDimData]: &#x2728; Parametric analysis/visualization +continuous-<var>f(x)</var> interpolation.
 
 ## Circuit-focused
- - [CMDimCircuits.jl &#x21AA;][CMDimCircuits]: Parametric analysis/visualization of model/measurement/simulation results.
+ - [CMDimCircuits.jl &#x21AA;][CMDimCircuits]: &#x2728; Parametric analysis/visualization of model/measurement/simulation results.
  - [Readers/writers for EDA file formats](info/edatools)
- - [ElectricalDiagrams &#x21AA;][ElectricalDiagrams]: Captivating circuit schematics in LibreOffice/OpenOffice
+ - [PhysicalCommunications.jl &#x21AA;][PhysicalCommunications]: Tools for development & test of PHY communication layer.
+ - [ElectricalDiagrams &#x21AA;][ElectricalDiagrams]: Publication-quality circuit schematics in LibreOffice/OpenOffice
  - Design Assistants
  - [Theory & Cheetsheets &#x21AA;][Cheatsheets]
 
@@ -53,7 +58,7 @@ __quote: >
  - [maketools &#x21AA;][maketools]
 
 ## Arduino projects
- - [ArduinoCIR &#x21AA;][ArduinoCIR]: Consumer IR remote communication (send/receive TV/other remote signals).
+ - [ArduinoCIR &#x21AA;][ArduinoCIR]: Communication with consumer IR "remote" signals (send/receive "TV remote" (+satbox +...) commands).
 
 ## Other
  - [AudioStick &#x21AA;][AudioStick]: Dump music from {.m3u playlists} &rArr; {USB folder} (for in-dash car stereos).
