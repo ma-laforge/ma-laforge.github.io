@@ -92,8 +92,12 @@ This page provides a list to promissing extrnal resources that address various p
 
 ## Numerical libraries
  - [List of numerical libraries (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/List_of_numerical_libraries)
- - [GNU Scientific Library (GSL) &#x21AA;](http://www.gnu.org/software/gsl/): Numeric Library for C/C++
+ - [GNU Scientific Library (GSL) &#x21AA;](http://www.gnu.org/software/gsl/): Numeric Library for C/C++.
+ - Boost, BLAS, LAPAK, Intel MKL, ...
 
 ## Information sites
  - [Wolfram|Alpha &#x21AA;](https://www.wolframalpha.com/)
  - [Math Open Reference &#x21AA;](https://www.mathopenref.com/)
+ - [NIST Digital Library of Mathematical Functions &#x21AA;](https://dlmf.nist.gov/)
+ - [NIST Reference on Constants, Units, and Uncertainty &#x21AA;](https://physics.nist.gov/cuu/Constants/index.html)
+

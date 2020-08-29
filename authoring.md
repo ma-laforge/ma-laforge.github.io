@@ -29,3 +29,8 @@ permalink: /extresouces/authoring
    - Based on the [`TeX` (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/TeX) typesetting system (Donald Knuth).
    - Excellent system to construct mathematical equations (though somewhat difficult to read).
 
+## TeX editors
+ - [Comparison of TeX editors (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/Comparison_of_TeX_editors)
+ - [TeXnicCenter (Windows) &#x21AA;](https://www.texniccenter.org/)
+ - [MiKTeX (Windows) &#x21AA;](https://miktex.org/): Backend to TeXnicCenter.
+
