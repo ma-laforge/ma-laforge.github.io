@@ -26,13 +26,6 @@ Thus, these data storage formats might as well provide the following components:
  1. A solid, flexible, hierarchical *binary* format.
  1. A simple-to-use editor/reader.
 
-## Analogy: `LaTeX` vs .pdf
- - `TeX`/`LaTeX` documents can be generated using simple text editors.
- - Humans have difficulty reading `TeX`/`LaTeX` documents (not very "human-readable").
- - The Portable Document Format (.pdf files) generate documents that are very much "human-readable".
- - \.pdf documents are written to a binary file format that are not easily deciphered with simple text editors.
- - To enable "human-readability", .pdf viewers are provided.
-
 ## Basic info
  - &#x2728;: Recommended by MA
  - &#x1F914;: Looks promising to MA
