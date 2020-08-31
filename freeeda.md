@@ -21,6 +21,9 @@ permalink: /extresouces/freeeda
 ## Circuit design environments
  - [Qucs (Qt) &#x21AA;](http://qucs.sourceforge.net/): &#x1F914; Quite Universal Circuit Simulator.
  - [KiCad EDA &#x21AA;](https://kicad-pcb.org/): &#x1F914; A Cross Platform and Open Source Electronics Design Automation Suite.
+ - [GNU Spice GUI &#x21AA;](https://sourceforge.net/projects/gspiceui/)
+   - Home page: <http://users.tpg.com.au/micksw012/gspiceui.html>.
+
 
 ## Device simulators (TCAD)
  - [Technology CAD (Wikipedia) &#x21AA;](https://en.wikipedia.org/wiki/Technology_CAD)
@@ -40,9 +43,20 @@ permalink: /extresouces/freeeda
    - Source: Department of Signal Processing, Helmut-Schmidt-University.
  - [CppSim &#x21AA;](https://www.cppsim.com/): System-level simulations for mixed-signal systems.
 
+## System-level simulation
+ - [Delta Sigma Toolbox (Matlab) &#x21AA;](https://www.mathworks.com/matlabcentral/fileexchange/19-delta-sigma-toolbox): Author: Richard Schreier.
+ - [python-deltasigma (Python) &#x21AA;](http://www.python-deltasigma.io/): A port of Richard Schreier's Delta Sigma Toolbox.
+
+## Circuit layout/PCB editors
+ - [OrCAD/Allegro Free Physical Viewer &#x21AA;](https://www.orcad.com/resources/orcad-downloads): OrCAD (part of Cadence Design Systems).
+ - [Eagle (PCB designer) &#x21AA;](https://www.autodesk.com/products/eagle/overview): (Autodesk).
+ - [LibrePCB &#x21AA;](https://librepcb.org/)
+   - [Comparison with other EDA tools &#x21AA;](https://librepcb.org/compare/)
+
 ## Waveform viewers
  - [GTKWave (Digital waveforms) &#x21AA;](http://gtkwave.sourceforge.net/)
    - LXT, LXT2, VZT, FST, and GHW files as well as standard Verilog VCD/EVCD.
+ - [Gaw (Digital waveforms) &#x21AA;](http://www.rvq.fr/linux/gaw.php): Gtk Analog Wave viewer.
 
 ## Misc tools
  - [scikit-rf (Python) &#x21AA;](http://scikit-rf.org/): Library for network analysis and calibration.

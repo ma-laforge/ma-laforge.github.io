@@ -46,6 +46,8 @@ This page provides a list to promissing extrnal resources that address various p
    - Mayavi (3D viz), Chaco (Interactive 2D plots), SciMath (Scientific utilities including units), ...
  - [SageMath &#x21AA;](https://www.sagemath.org/): Builds on top of many existing open-source packages: NumPy, SciPy, matplotlib, Sympy, Maxima, GAP, FLINT, R and many more.
  - [SciPy (Python) &#x21AA;](https://www.scipy.org/): Similar to Matlab.
+   - Add-on package listing: <http://scikits.appspot.com/scikits>
+   - Add-on examples: scikit-learn, scikit-rf, scikit-image.
  - [Qwt (C++/Qt) &#x21AA;](https://qwt.sourceforge.io/): Qt Widgets for Technical Applications.
  - [ROOT (CERN) &#x21AA;](https://root.cern/): Data analysis framework
    - Source: CERN (European Organization for Nuclear Research, orig: Conseil Européen pour la Recherche Nucléaire).
