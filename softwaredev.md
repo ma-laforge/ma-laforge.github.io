@@ -4,6 +4,8 @@ title: "Software Development"
 permalink: /extresouces/softwaredev
 ---
 
+{% include favicon.html %}
+
 # Software development tools
 
 ## Basic info
@@ -25,7 +27,7 @@ permalink: /extresouces/softwaredev
  - [Lignt Table &#x21AA;](http://lighttable.com/): Also an IDE.
 
 ## Revision Control
- - [git &#x21AA;](https://git-scm.com/): &#x2728;&#x2728; Orign. by Linus Torvalds.
+ - [git &#x21AA;](https://git-scm.com/): &#x2728;&#x2728; Orig. by Linus Torvalds.
    - Download: <https://git-scm.com/downloads>.
  - [TortoiseSVN &#x21AA;](https://tortoisesvn.net/)
  - [Version Control with Subversion &#x21AA;](http://svnbook.red-bean.com/): Book/documentation.
