@@ -39,6 +39,7 @@ __quote: >
 # External resources
  - [Authoring (Books, web pages, documentation...)](extresouces/authoring)
  - [Software development](extresouces/softwaredev)
+ - [Data Storage Formats](extresouces/datastoragefmt)
  - [Math/modelling/simulation/plotting resources](extresouces/modelling)
  - [Free EDA](extresouces/freeeda)
 
