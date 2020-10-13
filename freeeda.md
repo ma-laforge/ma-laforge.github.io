@@ -6,6 +6,16 @@ permalink: /extresouces/freeeda
 
 {% include favicon.html %}
 
+<!-- Reference-style links to make tables & lists more readable -->
+[Inkscape]: <https://inkscape.org>
+[inkscapeCircuitSymbols]: <https://github.com/fsmMLK/inkscapeCircuitSymbols>
+[inkscapeLogicGates]: <https://github.com/fsmMLK/inkscapeLogicGates>
+[inkscapeDimensions]: <https://github.com/fsmMLK/inkscapeDimensions>
+[inkscapeCartesianPlotFunction2D]: <https://github.com/fsmMLK/inkscapeCartesianPlotFunction2D>
+[inkscapeCartesianStemPlot]: <https://github.com/fsmMLK/inkscapeCartesianStemPlot>
+[inkscapePolarAxes2D]: <https://github.com/fsmMLK/inkscapePolarAxes2D>
+
+
 # Free EDA
 
 ## Basic info
@@ -57,6 +67,13 @@ permalink: /extresouces/freeeda
  - [GTKWave (Digital waveforms) &#x21AA;](http://gtkwave.sourceforge.net/)
    - LXT, LXT2, VZT, FST, and GHW files as well as standard Verilog VCD/EVCD.
  - [Gaw (Digital waveforms) &#x21AA;](http://www.rvq.fr/linux/gaw.php): Gtk Analog Wave viewer.
+
+## Documentation
+
+ - [inkscapeCircuitSymbols &#x21AA;][inkscapeCircuitSymbols], [inkscapeLogicGates &#x21AA;][inkscapeLogicGates]: [Inkscape] plugins that generate circuit symbols of **exceptionally** high quality.
+   - &#x1F615; Symbols are large relative to typical use case in a document (default scale). Is it possible to make them smaller by default?
+   - Other interesting plugins: [inkscapeDimensions], [inkscapeCartesianPlotFunction2D], [inkscapeCartesianStemPlot], [inkscapePolarAxes2D]
+   - Not sure why they are not consolidated into fewer packages (ex: plots, circuits, ...) to simplify installation.
 
 ## Misc tools
  - [scikit-rf (Python) &#x21AA;](http://scikit-rf.org/): Library for network analysis and calibration.
