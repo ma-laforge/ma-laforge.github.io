@@ -69,10 +69,9 @@ permalink: /extresouces/freeeda
  - [Gaw (Digital waveforms) &#x21AA;](http://www.rvq.fr/linux/gaw.php): Gtk Analog Wave viewer.
 
 ## Documentation
-
  - [inkscapeCircuitSymbols &#x21AA;][inkscapeCircuitSymbols], [inkscapeLogicGates &#x21AA;][inkscapeLogicGates]: [Inkscape] plugins that generate circuit symbols of **exceptionally** high quality.
    - &#x1F615; Symbols are large relative to typical use case in a document (default scale). Is it possible to make them smaller by default?
-   - Other interesting plugins: [inkscapeDimensions], [inkscapeCartesianPlotFunction2D], [inkscapeCartesianStemPlot], [inkscapePolarAxes2D]
+   - Other interesting plugins: [inkscapeDimensions &#x21AA;][inkscapeDimensions], [inkscapeCartesianPlotFunction2D &#x21AA;][inkscapeCartesianPlotFunction2D], [inkscapeCartesianStemPlot &#x21AA;][inkscapeCartesianStemPlot], [inkscapePolarAxes2D &#x21AA;][inkscapePolarAxes2D]
    - Not sure why they are not consolidated into fewer packages (ex: plots, circuits, ...) to simplify installation.
 
 ## Misc tools
