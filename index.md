@@ -12,6 +12,7 @@ __quote: >
 {% include favicon.html %}
 
 <!-- Reference-style links to make tables & lists more readable -->
+[ConventionalApp]: <https://github.com/ma-laforge/ConventionalApp.jl>
 [NumericIO]: <https://github.com/ma-laforge/NumericIO.jl>
 [InspectDR]: <https://github.com/ma-laforge/InspectDR.jl>
 [GracePlot]: <https://github.com/ma-laforge/GracePlot.jl>
@@ -24,6 +25,7 @@ __quote: >
 [SpiceData]: <https://github.com/ma-laforge/SpiceData.jl>
 [LibPSF]: <https://github.com/ma-laforge/LibPSF.jl>
 [PSFWrite]: <https://github.com/ma-laforge/PSFWrite.jl>
+[RSDeltaSigmaPort]: <https://github.com/ma-laforge/RSDeltaSigmaPort.jl>
 
 [ElectricalDiagrams]: <https://github.com/ma-laforge/ElectricalDiagrams>
 [Cheatsheets]: <https://github.com/ma-laforge/DocsLaTeX_Electrical>
@@ -46,6 +48,7 @@ __quote: >
 # Tools: ma-laforge
 
 ## General/scientific
+ - [ConventionalApp.jl &#x21AA;][ConventionalApp]: Deploy/execute conventional applications in Julia.
  - [NumericIO.jl &#x21AA;][NumericIO]: Fine control over numeric output (Scientific/Engineering/SI-notation +UTF8).
  - [InspectDR.jl (Plotting) &#x21AA;][InspectDR]: &#x2728; Fast, interactive Julia/GTK+ plots (+Smith charts).
  - [GracePlot.jl (Plotting) &#x21AA;][GracePlot]: Build Grace/xmgrace plots with Julia!
@@ -53,6 +56,7 @@ __quote: >
  - [CMDimData.jl &#x21AA;][CMDimData]: &#x2728; Parametric analysis/visualization +continuous-<var>f(x)</var> interpolation.
 
 ## Circuit-focused
+ - [RSDeltaSigmaPort.jl &#x21AA;][RSDeltaSigmaPort]: &#x2728; Port of Richard Schreier's &Delta;&Sigma; toolbox.
  - [CMDimCircuits.jl &#x21AA;][CMDimCircuits]: &#x2728; Parametric analysis/visualization of model/measurement/simulation results.
  - [Readers/writers for EDA file formats](info/edatools)
  - [PhysicalCommunications.jl &#x21AA;][PhysicalCommunications]: Tools for development & test of PHY communication layer.
