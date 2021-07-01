@@ -62,7 +62,7 @@ __quote: >
  - [PhysicalCommunications.jl &#x21AA;][PhysicalCommunications]: Tools for development & test of PHY communication layer.
  - [ElectricalDiagrams &#x21AA;][ElectricalDiagrams]: Publication-quality circuit schematics in LibreOffice/OpenOffice
  - Design Assistants
- - [Theory & Cheetsheets &#x21AA;][Cheatsheets]
+ - [Theory & cheat sheets &#x21AA;][Cheatsheets]
 
 ## Coding
  - [maketools &#x21AA;][maketools]
